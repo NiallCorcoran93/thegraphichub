@@ -4030,6 +4030,7 @@ input[type=button].btn-block {
   background-color: transparent;
   border: 0.125rem solid transparent;
   border-radius: 0.5rem;
+  left: 50%;
 }
 .navbar-toggler:hover, .navbar-toggler:focus {
   text-decoration: none;
@@ -10023,6 +10024,15 @@ h3 {
   height: 3.5rem;
   background-color: rgba(33, 37, 41, 0.5);
   line-height: 3.1rem;
+}
+
+#TopNotice {
+  background: #fff88a;
+  right: 0;
+  padding: 5px 0;
+  top: 0;
+  width: 100%;
+  height: 30px;
 }
 
 #mainNav {
