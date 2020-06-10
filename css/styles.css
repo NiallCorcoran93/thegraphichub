@@ -1308,13 +1308,13 @@ pre code {
   }
 
   .col-lg-3 {
-    flex: 0 0 25%;
-    max-width: 25%;
+    flex: 0 0 33.3333333333333333%;
+    max-width: 33.3333333333333333%;
   }
 
   .col-lg-4 {
-    flex: 0 0 33.3333333333%;
-    max-width: 33.3333333333%;
+    flex: 0 0 50%;
+    max-width: 50%;
   }
 
   .col-lg-5 {
@@ -10241,3 +10241,4 @@ form .row:first-child .floating-label-form-group {
 .map iframe {
   pointer-events: none;
 }
+
